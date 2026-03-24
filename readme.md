@@ -41,7 +41,7 @@ A robust password generator designed with enhanced security
 > — Cory House
 ---
 My sites :
-(https://ayushman.is-a.dev/)
-(https://smol.qzz.io/)
-(https://beluga.qzz.io/)
+- (https://ayushman.is-a.dev/)
+- (https://smol.qzz.io/)
+- (https://beluga.qzz.io/)
 Thanks for stopping by! Check out my repos or connect with me through GitHub.
