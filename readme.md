@@ -40,5 +40,8 @@ A robust password generator designed with enhanced security
 > “Code is like humor. When you have to explain it, it’s bad.”  
 > — Cory House
 ---
-
+My sites :
+(https://ayushman.is-a.dev/)
+(https://smol.qzz.io/)
+(https://beluga.qzz.io/)
 Thanks for stopping by! Check out my repos or connect with me through GitHub.
